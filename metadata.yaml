@@ -1,0 +1,38 @@
+_repo: The-Chief-Legatee_17999
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 17999-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Green, Anna Katharine
+    aliases:
+    - Rohlfs, Anna Katharine Green
+    - Rohlfs, Mrs. Charles
+    birthdate: 1846
+    deathdate: 1935
+    gutenberg_agent_id: '541'
+    url: http://www.gutenberg.org/2009/agents/541
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Katharine_Green
+description: The Shelf2Life Literature and Fiction Collection is a unique set of short
+  stories, poems and novels from the late 19th to early 20th centuries. From tales
+  of love, life and heartbreaking loss to humorous stories of ghost encounters, these
+  volumes captivate the imaginations of readers young and old. Included in this collection
+  are a variety of dramatic and spirited poems that contemplate the mysteries of life
+  and celebrate the wild beauty of nature. The Shelf2Life Literature and Fiction Collection
+  provides readers with an opportunity to enjoy and study these iconic literary works,
+  many of which were written during a period of remarkable creativity.
+gutenberg_issued: '2006-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17999'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+title: The Chief Legatee
+url: http://www.gutenberg.org/ebooks/17999
